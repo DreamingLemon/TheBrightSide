@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/The_BS/TheBrightSide/Content/FirstPerson/MI_FirstPersonColorway.uasset",
+				"E:/The_BS/TheBrightSide/Content/Assets/Neutral.uasset",
+				"E:/The_BS/TheBrightSide/Content/Assets/DayPlatform.uasset",
+				"E:/The_BS/TheBrightSide/Content/Assets/NightPlatform.uasset",
+				"E:/The_BS/TheBrightSide/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/The_BS/TheBrightSide/Content/TheBrightSide.umap",
+				"E:/The_BS/TheBrightSide/Content/_GENERATED/mcmag/Box_48E3D24B.uasset",
+				"E:/The_BS/TheBrightSide/Content/_GENERATED/mcmag/Box_E72E61F8.uasset",
+				"E:/The_BS/TheBrightSide/Content/_GENERATED/mcmag/Box_9BFD9310.uasset",
+				"E:/The_BS/TheBrightSide/Content/_GENERATED/mcmag/Cone_9FB7E8AE.uasset",
+				"E:/The_BS/TheBrightSide/Content/_GENERATED/mcmag/Box_FD7BE0B9.uasset",
+				"E:/The_BS/TheBrightSide/Content/_GENERATED/mcmag/Box_60345D69.uasset"
+			]
+		}
+	]
+}
