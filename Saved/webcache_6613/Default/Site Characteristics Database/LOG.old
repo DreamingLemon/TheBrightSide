@@ -1,2 +1,5 @@
-2026/03/28-23:06:10.362 a0c4 Creating DB E:\The_BS\TheBrightSide\Saved\webcache_6613\Default\Site Characteristics Database since it was missing.
-2026/03/28-23:06:12.630 a0c4 Reusing MANIFEST E:\The_BS\TheBrightSide\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/03/30-14:50:36.080 220 Log #3: 3 ops saved to Table #4 OK
+2026/03/30-14:50:36.093 220 Archiving C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
+2026/03/30-14:50:36.093 220 Table #4: 3 entries OK
+2026/03/30-14:50:36.095 220 Archiving C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/03/30-14:50:36.109 220 **** Repaired leveldb C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 207 bytes. Some data may have been lost. ****
