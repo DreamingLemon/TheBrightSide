@@ -1,17 +1,7 @@
-[12928:25628:0330/145035.805:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[12928:25628:0330/145035.899:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[12928:544:0330/145035.969:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[12928:25628:0330/145036.029:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[12928:18764:0330/145038.871:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[12928:18764:0330/145038.874:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[12928:18764:0330/145038.876:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[12928:18764:0330/145038.879:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[12928:18764:0330/145039.111:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[12928:18764:0330/145039.112:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[7104:27096:0330/145039.118:ERROR:backend_impl.cc(989)] Critical error found -8
-[7104:27096:0330/145039.237:WARNING:storage_block-inl.h(138)] Failed data load.
-[20504:16136:0330/145039.271:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C8A5DD630454202209BCCEE250CDE920 will be ignored
-[12928:26784:0330/145043.741:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[7104:25632:0330/145822.592:ERROR:dns_config_service.cc(273)] DNS config watch failed.
-[12928:544:0330/145822.592:ERROR:dns_config_service.cc(273)] DNS config watch failed.
-[12928:25628:0330/151323.690:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[4088:20188:0330/224258.116:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[4088:20188:0330/224258.322:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[4088:33404:0330/224258.416:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[4088:20188:0330/224258.493:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[4088:20188:0330/224303.258:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[33844:27084:0330/224304.661:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B94EEE4C8D9ACDF81B70B2D0D7301D3A will be ignored
+[4088:20188:0330/224820.987:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

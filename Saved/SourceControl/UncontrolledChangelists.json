@@ -5,10 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/mc645313/Documents/GitHub/TheBrightSide/Content/TheBrightSide.umap",
-				"C:/Users/mc645313/Documents/GitHub/TheBrightSide/Content/_GENERATED/mc645313/Box_F9BACD87.uasset",
-				"C:/Users/mc645313/Documents/GitHub/TheBrightSide/Content/_GENERATED/mc645313/Sphere_C0FB3DE6.uasset",
-				"C:/Users/mc645313/Documents/GitHub/TheBrightSide/Content/_GENERATED/mc645313/Torus_E6BDFBC3.uasset",
 				"E:/The_BS/TheBrightSide/Content/FirstPerson/MI_FirstPersonColorway.uasset",
 				"E:/The_BS/TheBrightSide/Content/Assets/Neutral.uasset",
 				"E:/The_BS/TheBrightSide/Content/Assets/DayPlatform.uasset",
@@ -20,7 +16,23 @@
 				"E:/The_BS/TheBrightSide/Content/_GENERATED/mcmag/Box_9BFD9310.uasset",
 				"E:/The_BS/TheBrightSide/Content/_GENERATED/mcmag/Cone_9FB7E8AE.uasset",
 				"E:/The_BS/TheBrightSide/Content/_GENERATED/mcmag/Box_FD7BE0B9.uasset",
-				"E:/The_BS/TheBrightSide/Content/_GENERATED/mcmag/Box_60345D69.uasset"
+				"E:/The_BS/TheBrightSide/Content/_GENERATED/mcmag/Box_60345D69.uasset",
+				"C:/Users/mcmag/OneDrive/Documents/GitHub/TheBrightSide/Content/Assets/checkpoint.uasset",
+				"C:/Users/mcmag/OneDrive/Documents/GitHub/TheBrightSide/Content/Assets/debris.uasset",
+				"C:/Users/mcmag/OneDrive/Documents/GitHub/TheBrightSide/Content/Assets/debrisbridge.uasset",
+				"C:/Users/mcmag/OneDrive/Documents/GitHub/TheBrightSide/Content/Assets/openPBR_shader1.uasset",
+				"C:/Users/mcmag/OneDrive/Documents/GitHub/TheBrightSide/Content/Assets/platform1.uasset",
+				"C:/Users/mcmag/OneDrive/Documents/GitHub/TheBrightSide/Content/Assets/platform2.uasset",
+				"C:/Users/mcmag/OneDrive/Documents/GitHub/TheBrightSide/Content/Assets/platform3.uasset",
+				"C:/Users/mcmag/OneDrive/Documents/GitHub/TheBrightSide/Content/Assets/portal.uasset",
+				"C:/Users/mcmag/OneDrive/Documents/GitHub/TheBrightSide/Content/Assets/turret_enemy.uasset",
+				"C:/Users/mcmag/OneDrive/Documents/GitHub/TheBrightSide/Content/Assets/wirefence.uasset",
+				"C:/Users/mcmag/OneDrive/Documents/GitHub/TheBrightSide/Content/TheBrightSide.umap",
+				"C:/Users/mcmag/OneDrive/Documents/GitHub/TheBrightSide/Content/Assets/DayPlatform.uasset",
+				"C:/Users/mc645313/Documents/GitHub/TheBrightSide/Content/TheBrightSide.umap",
+				"C:/Users/mc645313/Documents/GitHub/TheBrightSide/Content/_GENERATED/mc645313/Box_F9BACD87.uasset",
+				"C:/Users/mc645313/Documents/GitHub/TheBrightSide/Content/_GENERATED/mc645313/Sphere_C0FB3DE6.uasset",
+				"C:/Users/mc645313/Documents/GitHub/TheBrightSide/Content/_GENERATED/mc645313/Torus_E6BDFBC3.uasset"
 			]
 		}
 	]
