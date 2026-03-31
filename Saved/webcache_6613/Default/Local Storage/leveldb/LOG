@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 2026/03/31-08:31:08.505 6c1c Creating DB C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
 2026/03/31-08:31:08.530 6c1c Reusing MANIFEST C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+=======
+2026/03/31-09:27:08.495 66d4 Creating DB C:\Users\xa074604\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/03/31-09:27:08.516 66d4 Reusing MANIFEST C:\Users\xa074604\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+>>>>>>> Stashed changes

@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/mc645313/Documents/GitHub/TheBrightSide/Content/TheBrightSide.umap",
 				"C:/Users/mc645313/Documents/GitHub/TheBrightSide/Content/_GENERATED/mc645313/Box_F9BACD87.uasset",
 				"C:/Users/mc645313/Documents/GitHub/TheBrightSide/Content/_GENERATED/mc645313/Sphere_C0FB3DE6.uasset",
@@ -12,6 +13,9 @@
 				"C:/Users/mc645313/Documents/GitHub/TheBrightSide/Content/Assets/Neutral.uasset",
 				"C:/Users/mc645313/Documents/GitHub/TheBrightSide/Content/Assets/NightPlatform.uasset",
 				"C:/Users/mc645313/Documents/GitHub/TheBrightSide/Content/_GENERATED/mc645313/Box_FAE0366A.uasset",
+=======
+				"C:/Users/xa074604/Documents/GitHub/TheBrightSide/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+>>>>>>> Stashed changes
 				"E:/The_BS/TheBrightSide/Content/FirstPerson/MI_FirstPersonColorway.uasset",
 				"E:/The_BS/TheBrightSide/Content/Assets/Neutral.uasset",
 				"E:/The_BS/TheBrightSide/Content/Assets/DayPlatform.uasset",
