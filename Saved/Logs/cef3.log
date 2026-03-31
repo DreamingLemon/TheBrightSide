@@ -1,7 +1,20 @@
-[4088:20188:0330/224258.116:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[4088:20188:0330/224258.322:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[4088:33404:0330/224258.416:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[4088:20188:0330/224258.493:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[4088:20188:0330/224303.258:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[33844:27084:0330/224304.661:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B94EEE4C8D9ACDF81B70B2D0D7301D3A will be ignored
-[4088:20188:0330/224820.987:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[19552:588:0331/083108.104:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19552:588:0331/083108.236:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[19552:28248:0331/083108.341:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[19552:588:0331/083108.421:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19552:28260:0331/083112.214:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19552:28260:0331/083112.218:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19552:28260:0331/083112.222:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19552:28260:0331/083112.224:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19552:28256:0331/083112.398:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28412:4224:0331/083112.401:ERROR:backend_impl.cc(989)] Critical error found -8
+[19552:28256:0331/083112.401:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28412:4224:0331/083112.545:WARNING:storage_block-inl.h(138)] Failed data load.
+[28412:4224:0331/083112.545:WARNING:storage_block-inl.h(138)] Failed data load.
+[28412:4224:0331/083112.545:ERROR:entry_impl.cc(955)] Failed to save user data
+[27760:20276:0331/083112.766:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-21F82DACD0C92AC44DFB9EA7DB760716 will be ignored
+[19552:29660:0331/083115.994:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19552:28248:0331/085619.363:ERROR:dns_config_service.cc(273)] DNS config watch failed.
+[28412:28540:0331/085619.363:ERROR:dns_config_service.cc(273)] DNS config watch failed.
+[19552:588:0331/092338.192:ERROR:device_event_log_impl.cc(196)] [09:23:38.039] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[19552:588:0331/094823.224:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
