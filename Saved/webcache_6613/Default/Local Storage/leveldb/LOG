@@ -1,3 +1,11 @@
-2026/04/07-08:30:35.399 3c90 Reusing MANIFEST C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/07-08:30:35.402 3c90 Recovering log #3
-2026/04/07-08:30:35.405 3c90 Reusing old log C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/04/07-09:26:24.699 7a80 Reusing MANIFEST C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/07-09:26:24.704 7a80 Recovering log #14
+2026/04/07-09:26:24.704 7a80 Level-0 table #18: started
+2026/04/07-09:26:24.709 7a80 Level-0 table #18: 63222 bytes OK
+2026/04/07-09:26:24.712 7a80 Delete type=0 #14
+2026/04/07-09:34:59.582 5f78 Level-0 table #21: started
+2026/04/07-09:34:59.586 5f78 Level-0 table #21: 69442 bytes OK
+2026/04/07-09:34:59.587 5f78 Delete type=0 #19
+2026/04/07-09:35:21.660 5f78 Level-0 table #23: started
+2026/04/07-09:35:21.664 5f78 Level-0 table #23: 73382 bytes OK
+2026/04/07-09:35:21.666 5f78 Delete type=0 #20
