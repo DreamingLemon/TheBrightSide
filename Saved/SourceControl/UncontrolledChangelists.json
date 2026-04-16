@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/mcmag/OneDrive/Documents/GitHub/TheBrightSide/Content/UI/sunset_thingy.uasset",
+				"C:/Users/mcmag/OneDrive/Documents/GitHub/TheBrightSide/Content/UI/Menu.uasset",
+				"C:/Users/mcmag/OneDrive/Documents/GitHub/TheBrightSide/Content/TheDarkSide.umap",
+				"C:/Users/mcmag/OneDrive/Documents/GitHub/TheBrightSide/Content/MainMenuLevel.umap",
+				"C:/Users/mcmag/OneDrive/Documents/GitHub/TheBrightSide/Content/UI/Credits.uasset",
+				"C:/Users/mcmag/OneDrive/Documents/GitHub/TheBrightSide/Content/UI/LoseScreen.uasset",
+				"C:/Users/mcmag/OneDrive/Documents/GitHub/TheBrightSide/Content/UI/WinScreen.uasset",
 				"C:/Users/xa074604/Documents/GitHub/TheBrightSide/Content/TheBrightSide.umap",
 				"C:/Users/xa074604/Documents/GitHub/TheBrightSide/Content/Input/Actions/IA_RealmSwitch.uasset",
 				"C:/Users/xa074604/Documents/GitHub/TheBrightSide/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
