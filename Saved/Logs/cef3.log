@@ -1,7 +1,29 @@
-[12856:4844:0415/205634.187:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[12856:4844:0415/205634.206:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[12856:19404:0415/205634.249:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[12856:4844:0415/205634.256:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[12856:4844:0415/205637.101:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[14448:26348:0415/205639.155:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-BBCD069BC28281F36478626DF151513D will be ignored
-[12856:4844:0415/224646.084:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[27472:43232:0416/175829.257:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[40568:32532:0416/175829.257:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[27472:43232:0416/175831.880:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[27472:43232:0416/175837.554:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[40568:32532:0416/175849.960:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[40568:10612:0416/175906.321:WARNING:leveldb_database.cc(141)] Unable to open D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[40568:10612:0416/175906.321:WARNING:leveldb_database.cc(141)] Unable to open D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[40568:10612:0416/175906.324:WARNING:leveldb_database.cc(141)] Unable to open D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[40568:10612:0416/175906.325:WARNING:leveldb_database.cc(141)] Unable to open D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[40568:40152:0416/175908.873:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[40568:40152:0416/175908.875:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[40568:35324:0416/175911.848:WARNING:leveldb_database.cc(141)] Unable to open D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[43436:33132:0416/175912.182:ERROR:entry_impl.cc(1029)] No file for 800000bd
+[43436:33132:0416/175912.336:ERROR:entry_impl.cc(1029)] No file for 800000c1
+[43436:33132:0416/175912.593:ERROR:entry_impl.cc(1029)] No file for 800000c2
+[43436:33132:0416/175912.887:ERROR:entry_impl.cc(1029)] No file for 800000bf
+[43436:33132:0416/175912.887:ERROR:entry_impl.cc(1029)] No file for 800000c0
+[43436:33132:0416/175912.887:ERROR:entry_impl.cc(1029)] No file for 800000be
+[43436:33132:0416/175912.887:ERROR:entry_impl.cc(1029)] No file for 800000c4
+[43436:33132:0416/175912.887:ERROR:entry_impl.cc(1029)] No file for 800000c3
+[43436:33132:0416/175912.887:ERROR:entry_impl.cc(1029)] No file for 800000c6
+[43436:33132:0416/175912.887:ERROR:entry_impl.cc(1029)] No file for 800000c5
+[43436:33132:0416/175912.888:ERROR:entry_impl.cc(1029)] No file for 800000c7
+[43436:33132:0416/175914.141:ERROR:entry_impl.cc(1029)] No file for 800000cc
+[43436:33132:0416/175914.141:ERROR:entry_impl.cc(1029)] No file for 800000c9
+[40568:32532:0416/182905.322:ERROR:device_event_log_impl.cc(196)] [18:29:05.298] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[40568:32532:0416/203017.743:ERROR:device_event_log_impl.cc(196)] [20:30:17.728] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[40568:32532:0416/225125.330:ERROR:device_event_log_impl.cc(196)] [22:51:25.325] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[40568:32532:0417/014459.524:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

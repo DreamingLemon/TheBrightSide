@@ -1,7 +1,1 @@
-2026/04/15-20:56:34.317 30fc Log #9: 7 ops saved to Table #10 OK
-2026/04/15-20:56:34.321 30fc Archiving C:\Users\mcmag\OneDrive\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Site Characteristics Database/000009.log: OK
-2026/04/15-20:56:34.322 30fc Table #4: 3 entries OK
-2026/04/15-20:56:34.323 30fc Table #7: 2 entries OK
-2026/04/15-20:56:34.324 30fc Table #10: 7 entries OK
-2026/04/15-20:56:34.328 30fc Archiving C:\Users\mcmag\OneDrive\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/04/15-20:56:34.342 30fc **** Repaired leveldb C:\Users\mcmag\OneDrive\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Site Characteristics Database; recovered 3 files; 681 bytes. Some data may have been lost. ****
+2026/04/16-17:58:40.049 7ec4 Reusing MANIFEST D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
