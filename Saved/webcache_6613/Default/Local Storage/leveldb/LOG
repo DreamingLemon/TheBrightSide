@@ -1,3 +1,32 @@
-2026/04/17-18:40:13.416 b4ec Reusing MANIFEST D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/17-18:40:13.430 b4ec Recovering log #3
-2026/04/17-18:40:13.431 b4ec Reusing old log D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/04/20-10:44:28.190 3ea0 Creating DB C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/04/20-10:44:28.210 3ea0 Reusing MANIFEST C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/20-10:53:00.273 52c8 Level-0 table #5: started
+2026/04/20-10:53:00.277 52c8 Level-0 table #5: 85487 bytes OK
+2026/04/20-10:53:00.279 52c8 Delete type=0 #3
+2026/04/20-10:56:00.273 52c8 Level-0 table #7: started
+2026/04/20-10:56:00.278 52c8 Level-0 table #7: 71446 bytes OK
+2026/04/20-10:56:00.279 52c8 Delete type=0 #4
+2026/04/20-10:59:00.267 52c8 Level-0 table #9: started
+2026/04/20-10:59:00.271 52c8 Level-0 table #9: 74710 bytes OK
+2026/04/20-10:59:00.273 52c8 Delete type=0 #6
+2026/04/20-11:02:00.276 52c8 Level-0 table #11: started
+2026/04/20-11:02:00.280 52c8 Level-0 table #11: 77078 bytes OK
+2026/04/20-11:02:00.282 52c8 Delete type=0 #8
+2026/04/20-11:05:00.265 52c8 Level-0 table #13: started
+2026/04/20-11:05:00.270 52c8 Level-0 table #13: 74554 bytes OK
+2026/04/20-11:05:00.271 52c8 Delete type=0 #10
+2026/04/20-11:08:00.267 52c8 Level-0 table #15: started
+2026/04/20-11:08:00.303 52c8 Level-0 table #15: 76478 bytes OK
+2026/04/20-11:08:00.321 52c8 Delete type=0 #12
+2026/04/20-11:08:00.321 52c8 Compacting 4@0 + 1@1 files
+2026/04/20-11:08:00.339 52c8 Generated table #16@0: 3 keys, 26504 bytes
+2026/04/20-11:08:00.339 52c8 Compacted 4@0 + 1@1 files => 26504 bytes
+2026/04/20-11:08:00.339 52c8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/20-11:08:00.343 52c8 Delete type=2 #7
+2026/04/20-11:08:00.343 52c8 Delete type=2 #9
+2026/04/20-11:08:00.343 52c8 Delete type=2 #11
+2026/04/20-11:08:00.343 52c8 Delete type=2 #13
+2026/04/20-11:08:00.344 52c8 Delete type=2 #15
+2026/04/20-11:11:00.277 52c8 Level-0 table #18: started
+2026/04/20-11:11:00.284 52c8 Level-0 table #18: 81110 bytes OK
+2026/04/20-11:11:00.286 52c8 Delete type=0 #14
