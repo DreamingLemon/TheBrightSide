@@ -1,4 +1,1 @@
-2026/04/20-10:44:28.095 7344 Table #4: 3 entries OK
-2026/04/20-10:44:28.097 7344 Table #7: 2 entries OK
-2026/04/20-10:44:28.102 7344 Archiving C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/04/20-10:44:28.113 7344 **** Repaired leveldb C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 397 bytes. Some data may have been lost. ****
+2026/04/20-10:44:28.128 7344 Reusing MANIFEST C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
