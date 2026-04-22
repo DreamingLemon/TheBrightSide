@@ -1,13 +1,2 @@
-2026/04/21-16:31:33.130 1b68 Reusing MANIFEST C:\Users\mcmag\OneDrive\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/21-16:31:33.140 1b68 Recovering log #11
-2026/04/21-16:31:33.163 1b68 Reusing old log C:\Users\mcmag\OneDrive\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Local Storage\leveldb/000011.log 
-2026/04/21-16:31:33.178 1b68 Delete type=2 #12
-2026/04/21-16:33:58.519 4954 Level-0 table #13: started
-2026/04/21-16:33:58.525 4954 Level-0 table #13: 75266 bytes OK
-2026/04/21-16:33:58.529 4954 Delete type=0 #11
-2026/04/21-16:37:26.777 4954 Level-0 table #15: started
-2026/04/21-16:37:26.789 4954 Level-0 table #15: 70562 bytes OK
-2026/04/21-16:37:26.794 4954 Delete type=0 #12
-2026/04/21-20:45:24.337 4954 Level-0 table #17: started
-2026/04/21-20:45:24.343 4954 Level-0 table #17: 70986 bytes OK
-2026/04/21-20:45:24.348 4954 Delete type=0 #14
+2026/04/22-10:38:38.800 4a70 Creating DB C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/04/22-10:38:38.832 4a70 Reusing MANIFEST C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
