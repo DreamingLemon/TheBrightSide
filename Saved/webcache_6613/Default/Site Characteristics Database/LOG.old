@@ -1,3 +1,4 @@
-2026/04/21-16:31:33.095 1480 Reusing MANIFEST C:\Users\mcmag\OneDrive\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/04/21-16:31:33.095 1480 Recovering log #12
-2026/04/21-16:31:33.097 1480 Reusing old log C:\Users\mcmag\OneDrive\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Site Characteristics Database/000012.log 
+2026/04/22-14:14:09.457 17b4 Table #4: 3 entries OK
+2026/04/22-14:14:09.457 17b4 Table #7: 2 entries OK
+2026/04/22-14:14:09.460 17b4 Archiving C:\Users\sully\Documents\TheBrightSide\TheBrightSide 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/04/22-14:14:09.475 17b4 **** Repaired leveldb C:\Users\sully\Documents\TheBrightSide\TheBrightSide 5.7\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 397 bytes. Some data may have been lost. ****
