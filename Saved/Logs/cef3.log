@@ -1,18 +1,23 @@
-[16720:24760:0421/083755.651:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[16720:24760:0421/083755.769:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[16720:8036:0421/083755.851:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[16720:24760:0421/083755.915:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[16720:7740:0421/083759.436:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16720:7740:0421/083759.439:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16720:7740:0421/083759.442:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16720:7740:0421/083759.445:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16720:7740:0421/083800.177:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16720:7740:0421/083800.178:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16720:27140:0421/083801.380:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14936:28456:0421/083801.886:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-06B819378D73FF6F7644429A69DF73DD will be ignored
-[1404:6844:0421/083802.164:ERROR:entry_impl.cc(1029)] No file for 80000001
-[7184:3064:0421/090536.097:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-00D0423B8EF0A579A1151750153CA272 will be ignored
-[1404:6844:0421/090536.101:ERROR:entry_impl.cc(1029)] No file for 80000013
-[1404:6844:0421/090536.180:ERROR:entry_impl.cc(1029)] No file for 8000001a
-[25816:29056:0421/090617.759:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 14-27607F23F059734F712B1433DA6E21CE will be ignored
-[16720:24760:0421/091119.438:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[18716:5280:0421/163132.767:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[18716:5280:0421/163132.865:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[18716:23044:0421/163132.960:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[18716:5280:0421/163133.041:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[18716:5280:0421/163135.857:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[27104:25320:0421/163137.885:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1DA8ED74C4776D0DEA2D159A38CDFE7B will be ignored
+[18680:15740:0421/163138.212:ERROR:entry_impl.cc(1029)] No file for 800003be
+[2980:14048:0421/163158.524:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-B7E8B332069F98E9410A3882129A3F6C will be ignored
+[18680:15740:0421/163158.547:ERROR:entry_impl.cc(1029)] No file for 800003c0
+[18680:15740:0421/163158.548:ERROR:entry_impl.cc(1029)] No file for 80000015
+[18680:15740:0421/163158.549:ERROR:entry_impl.cc(1029)] No file for 8000001e
+[18680:15740:0421/163158.549:ERROR:entry_impl.cc(1029)] No file for 80000022
+[18680:15740:0421/163158.549:ERROR:entry_impl.cc(1029)] No file for 80000020
+[18680:15740:0421/163158.550:ERROR:entry_impl.cc(1029)] No file for 80000019
+[18680:15740:0421/163158.550:ERROR:entry_impl.cc(1029)] No file for 800003c1
+[18680:15740:0421/163158.550:ERROR:entry_impl.cc(1029)] No file for 8000001c
+[18680:15740:0421/163158.551:ERROR:entry_impl.cc(1029)] No file for 80000018
+[19228:14296:0421/163444.119:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame A-40F6F5B9D946277CDE5B69EF52371036 will be ignored
+[2780:7532:0421/163723.039:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame D-0660D25E588CDF3734AD2F7AD3E461AC will be ignored
+[20844:20108:0421/202935.895:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame F-3C7A1EBCCB56DD880E0F17AEEEE07DFD will be ignored
+[17384:31308:0421/204516.063:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 11-48D354F994E9419B1B7E6B78BDAA85A0 will be ignored
+[21192:14676:0421/211823.823:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 13-3A5B66E42606FB723A3B722113136A2A will be ignored
+[18716:5280:0421/214728.607:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
