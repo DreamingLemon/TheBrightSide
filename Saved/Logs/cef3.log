@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [6756:32460:0428/163740.438:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
 [6756:23492:0428/163740.477:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
 [6756:32460:0428/163740.488:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
@@ -21,3 +22,21 @@ C:\fakepath(382,11-39): warning X4008: floating point division by zero
 
 [28200:28628:0428/174359.042:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
 [6756:32460:0428/185720.534:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+=======
+[116556:7548:0428/122250.139:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[116556:7548:0428/122257.842:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[116556:116336:0428/122321.570:WARNING:leveldb_database.cc(141)] Unable to open D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[116556:116336:0428/122321.572:WARNING:leveldb_database.cc(141)] Unable to open D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[116556:116336:0428/122321.573:WARNING:leveldb_database.cc(141)] Unable to open D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[116556:116336:0428/122321.573:WARNING:leveldb_database.cc(141)] Unable to open D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[116556:108424:0428/122325.335:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[116556:108424:0428/122325.336:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[116556:115612:0428/122332.224:WARNING:leveldb_database.cc(141)] Unable to open D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[123552:100236:0428/122341.172:ERROR:frame_impl.cc(537)] frame 6-387B07B64D88200E0247B344535A22D0 connection timeout
+[113248:81584:0428/122350.153:ERROR:entry_impl.cc(1029)] No file for 800003f9
+[113248:81584:0428/122350.156:ERROR:entry_impl.cc(1029)] No file for 800003fb
+[113248:81584:0428/122357.263:ERROR:entry_impl.cc(1029)] No file for 800003f8
+[116556:7548:0428/161351.617:ERROR:device_event_log_impl.cc(196)] [16:13:51.568] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[116556:7548:0428/162017.042:ERROR:device_event_log_impl.cc(196)] [16:20:16.861] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[116556:7548:0428/185442.763:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+>>>>>>> main

@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 2026/04/28-16:28:50.607 964 Reusing MANIFEST C:\Users\mcmag\OneDrive\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
 2026/04/28-16:28:50.608 964 Recovering log #15
 2026/04/28-16:28:50.608 964 Reusing old log C:\Users\mcmag\OneDrive\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Site Characteristics Database/000015.log 
+=======
+2026/04/27-15:31:20.195 147dc Reusing MANIFEST D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/04/27-15:31:20.203 147dc Recovering log #12
+2026/04/27-15:31:20.203 147dc Reusing old log D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\Site Characteristics Database/000012.log 
+2026/04/27-15:31:20.203 147dc Delete type=2 #10
+>>>>>>> main

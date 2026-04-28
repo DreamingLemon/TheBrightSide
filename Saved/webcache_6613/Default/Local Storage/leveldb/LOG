@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2026/04/28-16:37:40.600 3894 Reusing MANIFEST C:\Users\mcmag\OneDrive\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
 2026/04/28-16:37:40.606 3894 Recovering log #78
 2026/04/28-16:37:40.606 3894 Level-0 table #82: started
@@ -47,3 +48,8 @@
 2026/04/28-18:38:11.041 29e8 Level-0 table #100: started
 2026/04/28-18:38:11.052 29e8 Level-0 table #100: 76309 bytes OK
 2026/04/28-18:38:11.055 29e8 Delete type=0 #96
+=======
+2026/04/28-12:22:59.024 19808 Reusing MANIFEST D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/28-12:22:59.037 19808 Recovering log #3
+2026/04/28-12:22:59.039 19808 Reusing old log D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+>>>>>>> main
