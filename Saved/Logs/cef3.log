@@ -1,36 +1,30 @@
-[3372:35428:0427/140549.748:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[3372:35428:0427/140549.759:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[3372:11260:0427/140549.781:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[3372:35428:0427/140549.788:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[3372:27700:0427/140551.135:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[3372:27700:0427/140551.138:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[3372:27700:0427/140551.139:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[3372:27700:0427/140551.141:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[3372:35720:0427/140551.533:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[3372:35720:0427/140551.534:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[34500:33564:0427/140553.153:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D7E214435E25957781C32B083DCD77A2 will be ignored
-[32696:2324:0427/140553.157:ERROR:entry_impl.cc(1029)] No file for 800003eb
-[32696:2324:0427/140553.494:ERROR:entry_impl.cc(1029)] No file for 800003ec
-[32696:2324:0427/140553.494:ERROR:entry_impl.cc(1029)] No file for 800003ee
-[32696:2324:0427/140553.494:ERROR:entry_impl.cc(1029)] No file for 800003ed
-[32696:2324:0427/140553.494:ERROR:entry_impl.cc(1029)] No file for 800003f0
-[32696:2324:0427/140553.494:ERROR:entry_impl.cc(1029)] No file for 800003ef
-[32696:2324:0427/140553.495:ERROR:entry_impl.cc(1029)] No file for 800003f2
-[32696:2324:0427/140553.495:ERROR:entry_impl.cc(1029)] No file for 800003f1
-[32696:2324:0427/140553.497:ERROR:entry_impl.cc(1029)] No file for 800003f5
-[32696:2324:0427/140553.497:ERROR:entry_impl.cc(1029)] No file for 800003f3
-[32696:2324:0427/140553.497:ERROR:entry_impl.cc(1029)] No file for 800003f4
-[32696:2324:0427/140553.821:ERROR:entry_impl.cc(1029)] No file for 800003f7
-[32696:2324:0427/140554.153:ERROR:entry_impl.cc(1029)] No file for 800003fc
-[32696:2324:0427/140554.153:ERROR:entry_impl.cc(1029)] No file for 800003fa
-[3372:10016:0427/140557.590:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[38708:8412:0427/141456.429:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 8-60ABD1D7F1C2C02DBEBA9CCE7D6CBD6A will be ignored
-[32696:2324:0427/141456.435:ERROR:entry_impl.cc(1029)] No file for 800003c9
-[32696:2324:0427/141456.437:ERROR:entry_impl.cc(1029)] No file for 800003cc
-[32696:2324:0427/141456.437:ERROR:entry_impl.cc(1029)] No file for 800003ce
-[32696:2324:0427/141456.437:ERROR:entry_impl.cc(1029)] No file for 800003cf
-[32696:2324:0427/141456.437:ERROR:entry_impl.cc(1029)] No file for 800003cb
-[32696:2324:0427/141456.438:ERROR:entry_impl.cc(1029)] No file for 800003cd
-[3372:11260:0427/145311.903:ERROR:dns_config_service.cc(273)] DNS config watch failed.
-[32696:29056:0427/145311.903:ERROR:dns_config_service.cc(273)] DNS config watch failed.
-[3372:35428:0427/151412.018:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[46724:37972:0427/192540.504:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[46724:37972:0427/192540.737:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[46724:21712:0427/192540.867:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[46724:37972:0427/192540.978:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[46724:37972:0427/192544.122:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[52548:47236:0427/192546.119:ERROR:backend_impl.cc(989)] Critical error found -8
+[52548:47236:0427/192546.119:ERROR:entry_impl.cc(1029)] No file for b2020fa8
+[52548:47236:0427/192546.119:WARNING:storage_block-inl.h(138)] Failed data load.
+[48812:51676:0427/192547.458:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-96A9A3358462A0931458E3D910F97190 will be ignored
+[36428:42396:0427/193208.883:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-C117C1E61115BFA746491748C1BFF7BB will be ignored
+[49356:32824:0427/193450.429:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[49356:32824:0427/193450.552:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[49356:36692:0427/193450.947:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[49356:32824:0427/193450.977:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[49356:56312:0427/193533.812:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+
+[49356:8940:0427/193550.325:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[46724:37972:0427/194923.857:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

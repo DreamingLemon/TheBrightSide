@@ -1,7 +1,7 @@
-2026/04/27-14:05:49.822 9bb4 Log #3: 4 ops saved to Table #8 OK
-2026/04/27-14:05:49.825 9bb4 Archiving C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/04/27-14:05:49.825 9bb4 Table #4: 3 entries OK
-2026/04/27-14:05:49.826 9bb4 Table #7: 2 entries OK
-2026/04/27-14:05:49.826 9bb4 Table #8: 4 entries OK
-2026/04/27-14:05:49.828 9bb4 Archiving C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/04/27-14:05:49.841 9bb4 **** Repaired leveldb C:\Users\mc645313\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Site Characteristics Database; recovered 3 files; 666 bytes. Some data may have been lost. ****
+2026/04/27-19:25:41.072 54d0 Log #12: 15 ops saved to Table #13 OK
+2026/04/27-19:25:41.073 54d0 Archiving C:\Users\mcmag\OneDrive\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Site Characteristics Database/000012.log: OK
+2026/04/27-19:25:41.074 54d0 Table #4: 3 entries OK
+2026/04/27-19:25:41.075 54d0 Table #7: 2 entries OK
+2026/04/27-19:25:41.075 54d0 Table #13: 15 entries OK
+2026/04/27-19:25:41.079 54d0 Archiving C:\Users\mcmag\OneDrive\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/04/27-19:25:41.088 54d0 **** Repaired leveldb C:\Users\mcmag\OneDrive\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Site Characteristics Database; recovered 3 files; 832 bytes. Some data may have been lost. ****
