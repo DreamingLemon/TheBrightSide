@@ -1,18 +1,8 @@
-[88952:93172:0428/213057.948:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[88952:93172:0428/213057.948:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
-[88952:93172:0428/213058.095:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[88952:93172:0428/213058.172:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[88952:69408:0428/213101.787:WARNING:leveldb_database.cc(141)] Unable to open D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[88952:69408:0428/213101.787:WARNING:leveldb_database.cc(141)] Unable to open D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[88952:69408:0428/213101.789:WARNING:leveldb_database.cc(141)] Unable to open D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[88952:69408:0428/213101.789:WARNING:leveldb_database.cc(141)] Unable to open D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[88952:118168:0428/213102.581:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[88952:118168:0428/213102.584:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[57428:121064:0428/213103.673:ERROR:backend_impl.cc(989)] Critical error found -8
-[57428:121064:0428/213103.673:ERROR:entry_impl.cc(1029)] No file for b202057c
-[57428:121064:0428/213103.673:WARNING:storage_block-inl.h(138)] Failed data load.
-[120600:110812:0428/213104.460:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-6808746516308A15231C60C2EC92EBC9 will be ignored
-[57428:89020:0428/213104.539:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 17
-[88952:94312:0428/213129.061:WARNING:leveldb_database.cc(141)] Unable to open D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: D:\Unreal Projects\TheBrightSide\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[88952:93172:0428/222101.379:ERROR:device_event_log_impl.cc(196)] [22:21:01.368] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[88952:93172:0428/223004.276:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[27424:33472:0428/223302.767:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[27424:33472:0428/223302.792:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[27424:30560:0428/223302.848:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[27424:33472:0428/223302.877:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[27424:33472:0428/223303.695:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[15928:28368:0428/223305.788:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-EF492D2134CE71B6F2EE17C6215B0F81 will be ignored
+[28340:21384:0428/223306.694:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-0EA749B87677916FCBD0F60A7EA7D020 will be ignored
+[27424:33472:0428/225603.717:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
