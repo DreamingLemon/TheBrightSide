@@ -1,7 +1,11 @@
-[27240:23412:0428/210730.984:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[27240:14092:0428/210731.026:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[27240:23412:0428/210731.041:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[27240:23412:0428/210731.799:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[29612:34548:0428/210734.436:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-869A4AA429875A5965C7468B63FD8538 will be ignored
-[28892:32608:0428/210735.057:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-800D249891BCEF08FA61FE301C666BC2 will be ignored
-[27240:23412:0428/210939.006:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[26432:16064:0428/212906.138:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[26432:16064:0428/212906.140:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
+[26432:12924:0428/212906.201:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[26432:16064:0428/212906.211:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26432:16064:0428/212906.927:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[4768:28712:0428/212908.271:ERROR:backend_impl.cc(989)] Critical error found -8
+[4768:28712:0428/212908.271:ERROR:entry_impl.cc(1029)] No file for b202057c
+[4768:28712:0428/212908.271:WARNING:storage_block-inl.h(138)] Failed data load.
+[15884:33020:0428/212909.283:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C41C841EBF53FA42440DB72CB2B4DDFD will be ignored
+[3576:19544:0428/212909.952:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-CB01101D205D9AA60089BEFDE1446C6C will be ignored
+[26432:16064:0428/223201.521:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
