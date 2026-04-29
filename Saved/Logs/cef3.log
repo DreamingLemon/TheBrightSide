@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [26432:16064:0428/212906.138:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
 [26432:16064:0428/212906.140:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
 [26432:12924:0428/212906.201:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
@@ -9,3 +10,13 @@
 [15884:33020:0428/212909.283:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C41C841EBF53FA42440DB72CB2B4DDFD will be ignored
 [3576:19544:0428/212909.952:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-CB01101D205D9AA60089BEFDE1446C6C will be ignored
 [26432:16064:0428/223201.521:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+=======
+[27424:33472:0428/223302.767:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[27424:33472:0428/223302.792:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[27424:30560:0428/223302.848:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[27424:33472:0428/223302.877:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[27424:33472:0428/223303.695:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[15928:28368:0428/223305.788:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-EF492D2134CE71B6F2EE17C6215B0F81 will be ignored
+[28340:21384:0428/223306.694:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-0EA749B87677916FCBD0F60A7EA7D020 will be ignored
+[27424:33472:0428/225603.717:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+>>>>>>> main

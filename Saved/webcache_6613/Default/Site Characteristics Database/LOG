@@ -1,3 +1,15 @@
+<<<<<<< HEAD
 2026/04/28-21:29:06.225 2854 Reusing MANIFEST C:\Users\mcmag\OneDrive\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
 2026/04/28-21:29:06.225 2854 Recovering log #21
 2026/04/28-21:29:06.226 2854 Reusing old log C:\Users\mcmag\OneDrive\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Site Characteristics Database/000021.log 
+=======
+2026/04/28-22:33:02.960 80ac Reusing MANIFEST C:\Users\mcmag\OneDrive\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/04/28-22:33:02.961 23ec Compacting 4@0 + 0@1 files
+2026/04/28-22:33:02.968 23ec Generated table #25@0: 3 keys, 259 bytes
+2026/04/28-22:33:02.969 23ec Compacted 4@0 + 0@1 files => 259 bytes
+2026/04/28-22:33:02.973 23ec compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/04/28-22:33:02.973 23ec Delete type=2 #4
+2026/04/28-22:33:02.973 23ec Delete type=2 #7
+2026/04/28-22:33:02.974 23ec Delete type=2 #16
+2026/04/28-22:33:02.974 23ec Delete type=2 #22
+>>>>>>> main

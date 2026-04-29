@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 2026/04/28-21:29:06.932 327c Reusing MANIFEST C:\Users\mcmag\OneDrive\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
 2026/04/28-21:29:06.933 327c Recovering log #3
 2026/04/28-21:29:06.934 327c Reusing old log C:\Users\mcmag\OneDrive\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/000003.log 
+=======
+2026/04/28-22:33:03.700 72dc Reusing MANIFEST C:\Users\mcmag\OneDrive\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/04/28-22:33:03.702 72dc Recovering log #3
+2026/04/28-22:33:03.703 72dc Reusing old log C:\Users\mcmag\OneDrive\Documents\GitHub\TheBrightSide\Saved\webcache_6613\Default\shared_proto_db\metadata/000003.log 
+>>>>>>> main
